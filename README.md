@@ -1,4 +1,4 @@
-# Columbia-ETL-Project
+# ETL-Process
 
 Project Proposal
 Suicide vs Global Happiness Report, by Country
